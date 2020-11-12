@@ -1,1 +1,2 @@
+application.provider.url=http://localhost:8888/
 application.message=This is configured by Azure Spring Cloud
