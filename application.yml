@@ -1,2 +1,2 @@
-
-application.message=This is configured by Azure Spring Cloud
+application.message=Hello, from default!
+message=Hello from GitHub!
